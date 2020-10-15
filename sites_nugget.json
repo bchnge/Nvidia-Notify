@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://nuggetcomfort.com/products/the-nugget?variant=21064671723638",
+    "detection_method": "negative",
+    "keyword": "",
+    "notkeyword": "Notify Me",
+    "alert": true,
+    "method": "GET_SELENIUM",
+    "name": "Nugget",
+    "enabled": true
+  }
+]

@@ -6,7 +6,7 @@
     "alert": false,
     "method": "GET_API",
     "name": "Nvidia 3080",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/",
@@ -15,7 +15,7 @@
     "alert": false,
     "method": "GET_API",
     "name": "Nvidia 3090",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://www.evga.com/products/productlist.aspx?type=0&family=GeForce+16+Series+Family&chipset=GTX+1650+Super",
